@@ -1,0 +1,1 @@
+Heya, I'm Bako. Based in Vancouver BC I'm just getting really into developing. I have built a few tools, a simple site and an UI interface for an api application. I work with cypress and selenium and am familiar with automation. Really digging in deep on machinelearning and AI. Let me know you if need some help with a project or if you want to help me with one of mine. 
