@@ -1,1 +1,7 @@
-Heya, Bako here. I am an AI and block chain developer specializing in inference pipelines, api's, mcp, rpc, and servers. I'm also well versed in substrate development and etherium and solana smart contracts. I'm a self taught developer that primarily works in rust and python but I can still find my way around a typescript project and I'm becoming a wizard with bash scripting. I've built subnets for CommuneAI and Bittensor and am the co-founder of an AI developement company. If you need an AI project brought to production or have a block chain or smart contract that needs to be launched feel free to fire me a line. @bakobiibizo everywhere. 
+Hey, I’m Bako. I’m an AI and blockchain engineer focused on production-grade inference pipelines, backend APIs, MCP/RPC services, and distributed systems.
+
+I work primarily in Rust and Python, with solid experience maintaining and shipping TypeScript projects, and I’m highly effective with Bash and deployment tooling. I’ve built and operated subnets on CommuneAI and Bittensor, and I’ve shipped smart contracts and infrastructure across Substrate, Ethereum, and Solana.
+
+I’m also a co-founder of [Hydra-Dynamix](https://www.hydradynamix.com/) AI development company, where I focus on taking research and prototypes all the way to reliable production systems.
+
+If you need an AI system deployed, scalable backend infrastructure, or a blockchain / smart-contract project launched properly, you can reach me at **@bakobiibizo**.
